@@ -1,0 +1,22 @@
+formatter: markdown table
+
+sections:
+  show:
+    - requirements    
+    - providers
+    - modules
+    - inputs    
+    - outputs
+
+sort:
+  enabled: true
+  by: required
+
+settings:
+  anchor: true
+  indent: 4
+  escape: false
+  default: true
+  required: true
+  type: true
+  hide-empty: true
