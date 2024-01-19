@@ -13,5 +13,6 @@ terraform {
 # Call the Terraform module in the exercise directory
 module "dns_updater" {
   source = "./examples/exercise"
+  version = "1.0.0" 
   json_directory = var.json_directory      # Pass the variable value
 }

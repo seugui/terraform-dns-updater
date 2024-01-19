@@ -13,7 +13,7 @@ No providers.
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_dns_updater"></a> [dns\_updater](#module\_dns\_updater) | ./examples/exercise | n/a |
+| <a name="module_dns_updater"></a> [dns\_updater](#module\_dns\_updater) | ./examples/exercise | 1.0.0 |
 
 ## Resources
 
