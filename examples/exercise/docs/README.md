@@ -29,9 +29,9 @@ No resources.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_a_record_addresses"></a> [a\_record\_addresses](#output\_a\_record\_addresses) | n/a |
-| <a name="output_a_record_names"></a> [a\_record\_names](#output\_a\_record\_names) | n/a |
-| <a name="output_a_record_ttl"></a> [a\_record\_ttl](#output\_a\_record\_ttl) | n/a |
-| <a name="output_cname_record_cnames"></a> [cname\_record\_cnames](#output\_cname\_record\_cnames) | n/a |
-| <a name="output_cname_record_names"></a> [cname\_record\_names](#output\_cname\_record\_names) | n/a |
-| <a name="output_cname_record_ttl"></a> [cname\_record\_ttl](#output\_cname\_record\_ttl) | n/a |
+| <a name="output_a_record_addresses"></a> [a\_record\_addresses](#output\_a\_record\_addresses) | Addresses of the DNS A records |
+| <a name="output_a_record_names"></a> [a\_record\_names](#output\_a\_record\_names) | Names of the DNS A records |
+| <a name="output_a_record_ttl"></a> [a\_record\_ttl](#output\_a\_record\_ttl) | Time-to-Live (TTL) for the DNS A records |
+| <a name="output_cname_record_cnames"></a> [cname\_record\_cnames](#output\_cname\_record\_cnames) | CNAMEs of the DNS CNAME records |
+| <a name="output_cname_record_names"></a> [cname\_record\_names](#output\_cname\_record\_names) | Names of the DNS CNAME records |
+| <a name="output_cname_record_ttl"></a> [cname\_record\_ttl](#output\_cname\_record\_ttl) | Time-to-Live (TTL) for the DNS CNAME records |

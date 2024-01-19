@@ -7,7 +7,6 @@ Modify the module to support dynamic record types by using a variable for the re
   "name": "www",
   "zone": "example.com.",
   // Additional attributes based on the record type
-  ...
 }
 ```
 
@@ -118,14 +117,3 @@ provider "dns" {
   }
 }
 ```
-
-# User Feedback Mechanism
-Provide a dedicated channel (e.g., GitHub issues) for users to report issues and contribute.
-
-# Extendable for Future Record Types
-Design the module with modularity, making it easy to extend for new record types.
-
-These examples illustrate how you can approach each of the listed points in your Terraform module. Adapt them based on your specific use case and requirements.
-```
-
-Feel free to use this Markdown content as needed!
